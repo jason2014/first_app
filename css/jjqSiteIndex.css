@@ -1,0 +1,26 @@
+.post .title{border-bottom: 1px solid #C9E0ED; font-size: 16px; font-weight: bold;}
+.post .author{color: #888; margin: 0 0 5px;}
+.post .content{margin: 10px 0; width: 870px;}
+.post .content p{ text-indent: 2em;}
+.category{border: 1px solid #C9E0ED; margin-bottom: 20px;padding-bottom: 10px;}
+.portlet-title{
+    background-color: #0088cc;
+    /*float: left;*/
+    height: 25px;
+    margin: 0px 0 10px;
+    overflow: hidden;
+    padding: 8px 0 0 11px;
+    /*width: 209px;*/
+    overflow: hidden;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+#comments .comment{ margin-bottom:10px; border:1px solid #0088cc;}
+#comments .content{margin: 5px 10px; background: #ccc;}
+#comments .left{float: left;}
+#comments .right{float: right;}
+.clear{clear: both;}
+
+.top{display: block; width: 28px; height: 28px; background: url(../images/top.png) no-repeat;}
+.title-comment{height: 45px; line-height: 30px; border-bottom: #bcd6ee 1px solid;}
